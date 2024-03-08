@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "ec52",
+      "name": "Samsung Galaxy S20",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "350",
+      "description": "New Samsung",
+      "createdAt": "2024-03-08"
+    },
+    {
+      "id": "c328",
+      "name": "Lenovo Thinkpad",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": "500",
+      "description": "ThinkPad is a line of business-oriented laptop computers and tablets, the early models of which were designed, developed and marketed by International Business Machines (IBM)",
+      "createdAt": "2024-03-08"
+    }
+  ]
+}
